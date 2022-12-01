@@ -1,0 +1,11 @@
+commit 665ae49a19ca08d25b24c6ab0a7d9f558587891b (HEAD -> linus_tor)
+Author: HA2004ha <haskari129@gmail.com>
+Date:   Thu Dec 1 18:18:42 2022 +0330
+
+    change github.txt
+
+commit 8812cba1df6ee13279ba6b371569e344a8176ad8 (master)
+Author: HA2004ha <haskari129@gmail.com>
+Date:   Thu Dec 1 18:15:09 2022 +0330
+
+    new files
